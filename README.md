@@ -4,6 +4,8 @@ Welcome to the **IAM Custom Roles** repository. This guide walks you through und
 
 Custom roles allow you to enforce the **Principle of Least Privilege**, ensuring that users and service accounts in your organization have only the exact permissions required to perform their tasks.
 
+<img src="https://github.com/barbaria888/GoogleCloudIAMPlaybook/blob/main/images/Identity%20And%20Access%20Management.png" height="70">
+
 ---
 
 ## 🏗️ Repository Structure
