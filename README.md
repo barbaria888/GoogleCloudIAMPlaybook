@@ -1,4 +1,4 @@
-# <img src="https://github.com/barbaria888/GoogleCloudIAMPlaybook/blob/main/images/Identity%20And%20Access%20Management.png" height="70"> Google Cloud IAM Custom Roles Guide 
+# <div align="center"><img src="https://github.com/barbaria888/GoogleCloudIAMPlaybook/blob/main/images/Identity%20And%20Access%20Management.png" height="70"> Google Cloud IAM Custom Roles Guide </div>
 
 Welcome to the **IAM Custom Roles** repository. This guide walks you through understanding, creating, updating, disabling, and deleting Custom Cloud IAM roles using the Google Cloud SDK (`gcloud`) and YAML definitions.
 
