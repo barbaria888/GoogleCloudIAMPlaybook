@@ -1,0 +1,10 @@
+description: "Custom role description."
+etag: "BwZU0S4fPbc="
+includedPermissions:
+- compute.instances.get
+- compute.instances.list
+- storage.buckets.get
+- storage.buckets.list
+name: "projects/qwiklabs-gcp-04-d6ba91c0de6b/roles/viewer"
+stage: "GA"
+title: "Role Viewer"
